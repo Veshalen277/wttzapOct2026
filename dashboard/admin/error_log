@@ -1,0 +1,12 @@
+[19-Jan-2026 14:47:07 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:07 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:07 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:07 UTC] PHP Warning:  Undefined variable $role in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 6
+[19-Jan-2026 14:47:18 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:18 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:18 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:18 UTC] PHP Warning:  Undefined variable $role in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 6
+[19-Jan-2026 14:47:25 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:25 UTC] PHP Warning:  include(../../header.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:25 UTC] PHP Warning:  include(): Failed opening '../../header.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 2
+[19-Jan-2026 14:47:25 UTC] PHP Warning:  Undefined variable $role in /home/wttzap/public_html/dashboard/admin/admin_profile.php on line 6

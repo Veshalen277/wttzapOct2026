@@ -1,0 +1,44 @@
+[31-Dec-2024 05:14:04 UTC] PHP Warning:  include(rcs_local.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 5
+[31-Dec-2024 05:14:04 UTC] PHP Warning:  include(): Failed opening 'rcs_local.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 5
+[31-Dec-2024 05:14:04 UTC] PHP Warning:  Undefined variable $domainName in /home/wttzap/public_html/index.php on line 119
+[31-Dec-2024 05:14:04 UTC] PHP Warning:  Undefined variable $domainName in /home/wttzap/public_html/index.php on line 122
+[31-Dec-2024 05:14:04 UTC] PHP Warning:  Undefined variable $images in /home/wttzap/public_html/index.php on line 165
+[31-Dec-2024 05:14:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wttzap/public_html/index.php on line 165
+[31-Dec-2024 05:16:00 UTC] PHP Warning:  include(rcs_local.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 5
+[31-Dec-2024 05:16:00 UTC] PHP Warning:  include(): Failed opening 'rcs_local.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 5
+[31-Dec-2024 05:16:00 UTC] PHP Warning:  Undefined variable $domainName in /home/wttzap/public_html/index.php on line 119
+[31-Dec-2024 05:16:00 UTC] PHP Warning:  Undefined variable $domainName in /home/wttzap/public_html/index.php on line 122
+[31-Dec-2024 05:16:00 UTC] PHP Warning:  Undefined variable $images in /home/wttzap/public_html/index.php on line 165
+[31-Dec-2024 05:16:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/wttzap/public_html/index.php on line 165
+[05-May-2025 23:35:06 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:35:06 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:35:55 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:35:55 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:21 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:21 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:25 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:25 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:26 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:26 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:27 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:47:27 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:49:58 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:49:58 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:50:00 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:50:00 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:50:01 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:50:01 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:50:03 UTC] PHP Warning:  include(gist.enc.php): Failed to open stream: No such file or directory in /home/wttzap/public_html/index.php on line 6
+[05-May-2025 23:50:03 UTC] PHP Warning:  include(): Failed opening 'gist.enc.php' for inclusion (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/wttzap/public_html/index.php on line 6
+[12-May-2025 14:08:46 UTC] PHP Warning:  file_get_contents(index.php.enc): Failed to open stream: No such file or directory in /home/wttzap/public_html/loader.php on line 7
+[12-May-2025 14:10:07 UTC] PHP Warning:  file_get_contents(index.php.enc): Failed to open stream: No such file or directory in /home/wttzap/public_html/loader.php on line 7
+[23-Jun-2025 00:10:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'SET' in /home/wttzap/public_html/reset_password.php:28
+Stack trace:
+#0 /home/wttzap/public_html/reset_password.php(28): mysqli->prepare()
+#1 {main}
+  thrown in /home/wttzap/public_html/reset_password.php on line 28
+[23-Jun-2025 00:11:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'password' in 'SET' in /home/wttzap/public_html/reset_password.php:32
+Stack trace:
+#0 /home/wttzap/public_html/reset_password.php(32): mysqli->prepare()
+#1 {main}
+  thrown in /home/wttzap/public_html/reset_password.php on line 32

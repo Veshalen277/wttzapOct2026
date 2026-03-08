@@ -1,0 +1,21 @@
+{
+  "name": "WTT Zap",
+  "short_name": "App",
+  "description": "A description of your app.",
+  "start_url": "/",
+  "display": "standalone",  // Ensures the app opens in full-screen without the browser UI
+  "background_color": "#ffffff",  // Background color when loading the app
+  "theme_color": "#000000",  // Theme color for browser UI
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192x192.png",  // Icon for PWA
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icons/icon-512x512.png",  // Larger icon for PWA
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
