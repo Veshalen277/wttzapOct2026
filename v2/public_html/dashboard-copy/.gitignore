@@ -1,0 +1,8 @@
+config.local.php
+.env
+error_log
+*.log
+/vendor/
+*.apk
+uploads/*
+!uploads/.gitkeep

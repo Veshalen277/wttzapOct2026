@@ -1,0 +1,150 @@
+[18-Mar-2026 14:53:00 UTC] PHP Warning:  Undefined array key "user_Id" in /home/bethelin/workplace.bethelinternational/gist.php on line 4
+[18-Mar-2026 14:53:00 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/bethelin/workplace.bethelinternational/gist.php on line 4
+[18-Mar-2026 14:53:11 UTC] PHP Warning:  Undefined array key "user_Id" in /home/bethelin/workplace.bethelinternational/gist.php on line 4
+[18-Mar-2026 14:53:11 UTC] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/bethelin/workplace.bethelinternational/gist.php on line 4
+[18-Mar-2026 14:55:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'logintime' in 'WHERE' in /home/bethelin/workplace.bethelinternational/gist.php:29
+Stack trace:
+#0 /home/bethelin/workplace.bethelinternational/gist.php(29): mysqli->prepare('SELECT COUNT(*)...')
+#1 /home/bethelin/workplace.bethelinternational/index.php(5): include('/home/bethelin/...')
+#2 {main}
+  thrown in /home/bethelin/workplace.bethelinternational/gist.php on line 29
+[19-Mar-2026 06:38:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bethelin_exptrack'@'localhost' (using password: YES) in /home/wttzap/public_html/dashboard/config.php:3
+Stack trace:
+#0 /home/wttzap/public_html/dashboard/config.php(3): mysqli_connect('localhost', 'bethelin_exptra...', 'bethelin_exptra...', 'bethelin_exptra...')
+#1 /home/wttzap/public_html/index.php(4): include('/home/wttzap/pu...')
+#2 {main}
+  thrown in /home/wttzap/public_html/dashboard/config.php on line 3
+[19-Mar-2026 06:38:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bethelin_exptrack'@'localhost' (using password: YES) in /home/wttzap/public_html/dashboard/config.php:3
+Stack trace:
+#0 /home/wttzap/public_html/dashboard/config.php(3): mysqli_connect('localhost', 'bethelin_exptra...', 'bethelin_exptra...', 'bethelin_exptra...')
+#1 /home/wttzap/public_html/index.php(4): include('/home/wttzap/pu...')
+#2 {main}
+  thrown in /home/wttzap/public_html/dashboard/config.php on line 3
+[19-Mar-2026 06:39:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bethelin_exptrack'@'localhost' (using password: YES) in /home/wttzap/public_html/dashboard/config.php:3
+Stack trace:
+#0 /home/wttzap/public_html/dashboard/config.php(3): mysqli_connect('localhost', 'bethelin_exptra...', 'bethelin_exptra...', 'bethelin_exptra...')
+#1 /home/wttzap/public_html/index.php(4): include('/home/wttzap/pu...')
+#2 {main}
+  thrown in /home/wttzap/public_html/dashboard/config.php on line 3
+[09-Sep-2026 15:10:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bethelin_wttzap'@'localhost' (using password: YES) in /home/wttzap/public_html/dashboard/config.php:3
+Stack trace:
+#0 /home/wttzap/public_html/dashboard/config.php(3): mysqli_connect('localhost', 'bethelin_wttzap', Object(SensitiveParameterValue), 'bethelin_wttzap')
+#1 /home/wttzap/public_html/index.php(8): require('/home/wttzap/pu...')
+#2 {main}
+  thrown in /home/wttzap/public_html/dashboard/config.php on line 3
+[09-Sep-2026 15:10:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'bethelin_wttzap'@'localhost' (using password: YES) in /home/wttzap/public_html/dashboard/config.php:3
+Stack trace:
+#0 /home/wttzap/public_html/dashboard/config.php(3): mysqli_connect('localhost', 'bethelin_wttzap', Object(SensitiveParameterValue), 'bethelin_wttzap')
+#1 /home/wttzap/public_html/index.php(8): require('/home/wttzap/pu...')
+#2 {main}
+  thrown in /home/wttzap/public_html/dashboard/config.php on line 3
+[09-Sep-2026 15:12:05 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/login-appearance.js in /home/wttzap/public_html/index.php on line 24
+[09-Sep-2026 15:12:05 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.css in /home/wttzap/public_html/index.php on line 25
+[09-Sep-2026 15:12:05 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.js in /home/wttzap/public_html/index.php on line 26
+[09-Sep-2026 15:12:10 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/login-appearance.js in /home/wttzap/public_html/index.php on line 24
+[09-Sep-2026 15:12:10 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.css in /home/wttzap/public_html/index.php on line 25
+[09-Sep-2026 15:12:10 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.js in /home/wttzap/public_html/index.php on line 26
+[09-Sep-2026 15:12:12 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/login-appearance.js in /home/wttzap/public_html/index.php on line 24
+[09-Sep-2026 15:12:12 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.css in /home/wttzap/public_html/index.php on line 25
+[09-Sep-2026 15:12:12 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.js in /home/wttzap/public_html/index.php on line 26
+[09-Sep-2026 15:12:32 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/login-appearance.js in /home/wttzap/public_html/index.php on line 24
+[09-Sep-2026 15:12:32 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.css in /home/wttzap/public_html/index.php on line 25
+[09-Sep-2026 15:12:32 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.js in /home/wttzap/public_html/index.php on line 26
+[09-Sep-2026 15:44:08 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/login-appearance.js in /home/wttzap/public_html/index.php on line 24
+[09-Sep-2026 15:44:08 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.css in /home/wttzap/public_html/index.php on line 25
+[09-Sep-2026 15:44:08 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.js in /home/wttzap/public_html/index.php on line 26
+[10-Sep-2026 03:50:25 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/login-appearance.js in /home/wttzap/public_html/index.php on line 24
+[10-Sep-2026 03:50:25 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.css in /home/wttzap/public_html/index.php on line 25
+[10-Sep-2026 03:50:25 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/wtt-login.js in /home/wttzap/public_html/index.php on line 26
+[10-Sep-2026 03:52:23 UTC] PHP Warning:  filemtime(): stat failed for /home/wttzap/public_html/assets/login-appearance.js in /home/wttzap/public_html/index.php on line 24
+[10-Sep-2026 08:03:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:03:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:03:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:03:49 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:00 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:25 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:36 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:38 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wttzap_tasks.portal_inventory_movements' doesn't exist in /home/wttzap/public_html/dashboard/inventory/src/Inventory.php:8
+Stack trace:
+#0 /home/wttzap/public_html/dashboard/inventory/src/Inventory.php(8): mysqli->prepare('SELECT i.item_i...')
+#1 /home/wttzap/public_html/dashboard/inventory/src/Inventory.php(11): Inventory\Inventory->query('SELECT i.item_i...', '', Array)
+#2 /home/wttzap/public_html/dashboard/inventory/audit.php(6): Inventory\Inventory->rows('SELECT i.item_i...')
+#3 {main}
+  thrown in /home/wttzap/public_html/dashboard/inventory/src/Inventory.php on line 8
+[10-Sep-2026 08:04:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:04:39 UTC] Notification audit: Table 'wttzap_tasks.portal_notification_state' doesn't exist
+[10-Sep-2026 08:07:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:07:47 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:07:59 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:08:10 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:24 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:35 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:52 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:09:53 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:04 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:16 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:26 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:30 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:31 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[10-Sep-2026 08:10:32 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[04-Oct-2026 10:40:31 UTC] Database connection failed: Access denied for user ''@'localhost' (using password: NO)

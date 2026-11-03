@@ -1,0 +1,13 @@
+# Deny access to secrets, logs, docs and tooling
+<FilesMatch "(^\.|\.(log|sql|md|lock|sh|bak|old|orig|dist|example)$|^(error_log|composer\.(json|lock)|config\.local\.php)$)">
+    Require all denied
+</FilesMatch>
+
+# Never list directories
+Options -Indexes
+
+# Basic hardening headers
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

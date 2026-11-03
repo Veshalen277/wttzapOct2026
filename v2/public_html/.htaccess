@@ -1,0 +1,32 @@
+
+
+# Security: Disable directory listing
+Options -Indexes
+
+# Turn on the rewrite engine
+RewriteEngine On
+
+# Prevent direct access to loader.php
+RewriteCond %{THE_REQUEST} /loader\.php [NC]
+RewriteRule ^ - [F,L]
+
+# Standard routing for other PHP files (optional)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)$ $1.php [L]
+
+<Files "brain.php">
+    <IfModule Litespeed>
+        RewriteEngine Off
+    </IfModule>
+    # This tells LiteSpeed NOT to verify the browser for this file
+    SetEnv noraid 1
+    SetEnv no-gzip 1
+</Files>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php83” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php83 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
